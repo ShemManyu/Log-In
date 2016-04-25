@@ -27,6 +27,7 @@ if(isset($_POST['username'])&&isset($_POST['password'])){
 Username:<br><br>
 <input type="text" name="username"><br><br>
 Password:<br><br>
+<!--New Comment-->
 <input type="password" name="password"><br><br>
 <input type="submit" value="Submit">
 </form>
