@@ -5,4 +5,4 @@ $pass = '12345';
 $redirect_page='http://localhost/wordpress';
 
 ?>
-//Git example thats all
+//Git example
